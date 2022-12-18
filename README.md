@@ -2,7 +2,7 @@
 
 ![Hardware Security lab](hardware_security_image.png "Topic: Hardware security")
 
-[Lab website:](https://seth.engr.tamu.edu/)
+[Lab website link](https://seth.engr.tamu.edu/)
 
 
 
