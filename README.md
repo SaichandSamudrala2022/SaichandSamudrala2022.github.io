@@ -5,5 +5,5 @@
 [Lab website link](https://seth.engr.tamu.edu/)
 
 
-## Readings
+### Readings
 <iframe width="100%" height="800" src="Hardware_Security_Intro.pdf">
