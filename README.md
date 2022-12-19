@@ -7,3 +7,6 @@
 
 ### Readings
 <iframe width="100%" height="800" src="Hardware_Security_Intro.pdf">
+  
+ ### Tutorial
+  <iframe width="50%" height="300" src="https://www.youtube.com/watch?v=-OZmqsVCGww" frameborder="0" allow="autoplay;encrypted-media allowfullscreen></iframe>
